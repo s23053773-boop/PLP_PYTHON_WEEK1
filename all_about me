@@ -1,0 +1,38 @@
+name = "Siman"
+age = 18
+favourite_language = "Python"
+goal = "To become a software developer"
+
+print("My name is", name)
+print("I am", age, "years old")
+print("My favourite language is", favourite_language)
+print("My goal is", goal)
+
+print("My name is", name)
+print("I am", age, "years old")
+print("My favourite language is", favourite_language)
+print("My goal is", goal)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+-
